@@ -22,4 +22,4 @@
 |Visible name  | * | * |
 |Groups  | * | * |
 |Interfaces  | Agent, < NDB IP >  | Agent, < VSC IP > |
-|Template  | [WIP] | [WIP] |
+|Template  | [template_netapp_ndb](https://github.com/zabbix/community-templates/tree/main/Storage_Devices/NetAPP/templates_netapp_ndb) | [template_netapp_vsc](https://github.com/zabbix/community-templates/tree/main/Storage_Devices/NetAPP/templates_netapp_vsc) |
